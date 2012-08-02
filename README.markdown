@@ -4,8 +4,21 @@ Chrome Developer Tools is capable of running a custom user stylesheet.
 
 ## Installing on OSX
 
-On a Mac, open:
+Place Custom.css in the following folder:
+
+### OSX Location
 
     ~/Library/Application Support/Google/Chrome/Default/User StyleSheets/
 
-Place Custom.css in that folder.
+### Windows XP Location
+
+    C:\Documents and Settings\<username>\Local Settings\Application Data\Google\Chrome\User Data\Default\User Stylesheets\
+
+### Windows 7 or Vista Location
+
+    C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\
+
+### Linux Location
+
+    ~/.config/google-chrome/Default/User StyleSheets/
+
