@@ -15,7 +15,6 @@
 }
 
 #elements-content .selection.selected {
-
 }
 
 #elements-content .parent {
@@ -30,7 +29,6 @@
 }
 
 #elements-content .parent.selected {
-  
 }
 
 #elements-content .parent.selected {
@@ -188,6 +186,13 @@
 
 #elements-content .webkit-javascript-regexp {
 
+}
+
+/**********************************************/
+/* Selected Line
+/**********************************************/
+#-webkit-web-inspector div ol li.selected {
+	background-color: #444;
 }
 
 /**********************************************/
