@@ -217,10 +217,13 @@
 #-webkit-web-inspector .drawer-header-close-button,
 body #-webkit-web-inspector,
 #-webkit-web-inspector .monospace,
-#-webkit-web-inspector table
+#-webkit-web-inspector table,
+#-webkit-web-inspector table td,
+.webkit-line-content,
+.webkit-line-number
 {
-    font-size: 14px !important;
-    font-family: Arial, sans-serif !important;
+    font-size: 11pt !important;
+    font-family: ProggyCleanTT, Arial, sans-serif !important;
     line-height: 1em;
 	letter-spacing: 0em;
 }
