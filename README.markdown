@@ -22,3 +22,7 @@ Place Custom.css in the following folder:
 
     ~/.config/google-chrome/Default/User StyleSheets/
 
+
+## Author ##
+
+James Tomasino, github@jamestomasino.com, [http://jamestomasino.com](http://jamestomasino.com), [![endorse](http://api.coderwall.com/jamestomasino/endorsecount.png)](http://coderwall.com/jamestomasino)
